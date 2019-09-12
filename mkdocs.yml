@@ -6,4 +6,4 @@ theme:
 nav:
     - Home: index.md
     - First: first.md
-
+    - Second: test.md
